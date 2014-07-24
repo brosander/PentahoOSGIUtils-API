@@ -1,4 +1,4 @@
-package org.pentaho.osgi;
+package org.pentaho.osgi.api;
 
 /**
  * User: nbaker
